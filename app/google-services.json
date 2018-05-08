@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708178736401",
+    "firebase_url": "https://parenik-9b677.firebaseio.com",
+    "project_id": "parenik-9b677",
+    "storage_bucket": "parenik-9b677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708178736401:android:62eb35130bef0c6e",
+        "android_client_info": {
+          "package_name": "com.par3n.parenik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708178736401-6lsh4gbkorj12qq6tp1r5aojb9474cjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.par3n.parenik",
+            "certificate_hash": "15c3452b44e2db88058fb5ac0eb7fec696029f1f"
+          }
+        },
+        {
+          "client_id": "708178736401-mubfghns5sgol95udqj7ole2ph6nna4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsM_ndmvFglBeS-WuRJuk5HWZGII2-bjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708178736401-mubfghns5sgol95udqj7ole2ph6nna4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
